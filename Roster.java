@@ -1,7 +1,11 @@
 /**
  *Title: Roster
  *Desription: A library of methods required to roster.
- *
+ *Auther: James Sandford
+ *Last updated: 18/3/11
+ *Updated by: James Sandford
+ *Current state: Untested
+ *Known bugs: NONE
  **/
 
 import java.util.*;
